@@ -13,6 +13,7 @@ class deck(object):
     def take_card(self):
         return random.choice(self.cards_id)
 
+привет вася
     
 # КЛАСС КАРТ
 
